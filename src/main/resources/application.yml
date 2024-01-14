@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/leads_app
+    username: rizwan
+    password: rizwan
